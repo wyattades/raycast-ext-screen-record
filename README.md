@@ -1,6 +1,6 @@
-# raycast-ext-screen-record
+# Screen Record - Raycast Extension
 
-A personal Raycast extension: record a screen area, trim/cut it, then export as MP4 or GIF — copy to clipboard or save to Downloads.
+a Raycast extension to record a screen area, trim/cut it, then export as MP4 or GIF — copy to clipboard and/or save to Downloads.
 
 ## Use
 
